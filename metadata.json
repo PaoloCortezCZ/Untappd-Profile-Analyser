@@ -1,0 +1,5 @@
+{
+  "name": "Untappd Data Explorer",
+  "description": "A comprehensive dashboard to visualize, analyze, and explore your Untappd check-in history. Features include timeline analytics, style distribution, flavor profile word clouds, and a photo gallery.",
+  "requestFramePermissions": []
+}
